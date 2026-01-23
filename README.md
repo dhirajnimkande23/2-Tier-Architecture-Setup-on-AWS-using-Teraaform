@@ -1,7 +1,7 @@
 # 2-Tier-Architecture-Setup-on-AWS-using-Teraaform
 This project demonstrates deploying a complete web application stack on AWS using Terraform with a modular architecture.
 
-# Day 22: RDS Database (Mini Project 8)
+# RDS Database
 
 ## Overview
 
